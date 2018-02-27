@@ -1,5 +1,5 @@
 # HMAC
-Swift 实现散列消息身份验证码算法 (HMAC: Hashed Message Authentication Code) 
+Swift 实现散列消息身份验证码算法 (`HMAC`: keyed-Hash Message Authentication Code) 
 
 ## 维基百科
 - [HMAC](https://en.wikipedia.org/wiki/Hash-based_message_authentication_code)
